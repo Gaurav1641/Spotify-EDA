@@ -83,29 +83,6 @@ This project requires the following Python libraries:
 - `matplotlib`
 - `seaborn`
 
----
-
-## Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/spotify-data-analysis.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd spotify-data-analysis
-   ```
-3. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Run the analysis script:
-   ```bash
-   python analysis.py
-   ```
-
----
-
 ## Visualizations and Outputs
 
 ### Example Visualizations
